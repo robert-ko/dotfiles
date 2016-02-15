@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/Users/admin/Dropbox/Coursera/MobileCloud/mobilecloud-14/examples/12-VideoSvcAppEngineJDO/src/main/webapp/WEB-INF'
+let g:netrw_dirhist_2='/Users/admin/Projects/Maven/maven_demo/res/values/strings.xml'
+let g:netrw_dirhist_3='/Users/admin/Dropbox/Coursera/AndroidCapstone/server/bin/server'
+let g:netrw_dirhist_4='/usr/local/share/info'
+let g:netrw_dirhist_5='/Users/admin/Dropbox/OMCS/Reinforcement Learning/testcode'
+let g:netrw_dirhist_6='/Users/admin/Dropbox/Golang/gobyexample/examples'
